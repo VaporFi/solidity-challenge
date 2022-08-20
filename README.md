@@ -2,9 +2,16 @@
 
 Welcome!
 
-You've come here to prove your solidity knowledge. This is a sample hardhat project where you can implement your solution that our engineering department will review.
+You've come here to prove your solidity knowledge. This is a sample hardhat project where you can implement your solution that our engineering team will review.
 
 **Do NOT use external libraries or frameworks**
+
+## Instructions
+
+1. Clone this in a private repository
+2. Implement your solution
+3. Attach your CV
+4. Give read permissions to "vaporengineering"
 
 ## Challenge
 
